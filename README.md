@@ -62,4 +62,4 @@ Add new records inside the existing `example-list` wrapper. Keep image names seq
 `docs/downloads/bashtr-escriptorium-keyboard.json` contains the eScriptorium keyboard configuration. it synchronized with the non-standard characters required by the [Character Inventory](https://bashtr.github.io/bashtr-guidelines/characters/). Characters available on a standard Arabic keyboard are out.
 
 ## Building
-Built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). Hosted on [GitHub Pages](https://pages.github.com/).
+Built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). 
