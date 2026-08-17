@@ -14,7 +14,7 @@ The source pages are Markdown files in `docs/`. Add every page to the `nav` sect
 - `docs/javascripts/` contains the image viewer, header actions, and external-link behavior.
 - `mkdocs.yml` contains the site settings, navigation, theme options, and asset registration.
 
-The `community.md` page is reserved for conventions that the guidelines explicitly leave unresolved.
+The `community.md` page is reserved for conventions that the guidelines explicitly leave unresolved. And the `docs/database.md` is reserved for the database.
 
 ### Links
 
