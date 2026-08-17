@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -18 560 336" role="img" aria-label="BASHtr" color="#f4f2ed">
+<title>BASHtr</title>
+<g transform="translate(-32,-14)" fill="none" stroke="currentColor" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+<path d="M46 32 C41 118 43 212 47 302"></path>
+<path d="M46 34 C98 32 134 76 108 124 C98 142 72 148 50 145"></path>
+<path d="M50 147 C94 151 126 190 117 240 C111 280 78 302 47 300"></path>
+<path d="M152 302 C170 212 188 120 203 34"></path>
+<path d="M203 34 C209 120 214 212 219 301"></path>
+<path d="M166 236 C179 230 186 242 199 236 C207 232 212 239 218 236"></path>
+<path d="M322 68 C318 40 274 26 256 52 C238 78 258 120 285 150 C314 182 332 220 319 254 C306 290 260 306 240 278"></path>
+<path d="M366 32 C362 122 364 212 368 301"></path>
+<path d="M437 28 C433 120 435 212 439 300"></path>
+<path d="M366 198 C383 188 393 206 409 196 C421 188 429 199 437 194"></path>
+<path d="M487 176 C485 228 484 268 492 298" stroke-width="15"></path>
+<path d="M470 212 C482 208 502 208 514 204" stroke-width="15"></path>
+<path d="M522 299 C520 270 518 244 518 220" stroke-width="15"></path>
+<path d="M518 232 C525 216 539 208 551 217" stroke-width="15"></path>
+</g>
+<circle cx="371" cy="-4" r="10" fill="var(--bashtr-point,#4C5D69)"></circle>
+<g fill="none" stroke="currentColor" stroke-width="6" stroke-opacity="0.85" stroke-linecap="butt">
+<path d="M0 306 H536"></path>
+<path d="M0 306 V318 M67 306 V313 M134 306 V313 M201 306 V318 M268 306 V313 M335 306 V313 M402 306 V318 M469 306 V313 M536 306 V318"></path>
+</g>
+</svg>

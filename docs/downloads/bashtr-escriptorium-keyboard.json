@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "name": "BASHtr Character Inventory",
+  "author": "BASHtr",
+  "characters": [
+    { "row": 0, "column": 0, "character": "ٮ" },
+    { "row": 0, "column": 1, "character": "ٯ" },
+    { "row": 0, "column": 2, "character": "ں" },
+    { "row": 1, "column": 0, "character": "پ" },
+    { "row": 1, "column": 1, "character": "چ" },
+    { "row": 1, "column": 2, "character": "ژ" },
+    { "row": 1, "column": 3, "character": "گ" },
+    { "row": 2, "column": 0, "character": "ٹ" },
+    { "row": 2, "column": 1, "character": "ڈ" },
+    { "row": 2, "column": 2, "character": "ڑ" },
+    { "row": 2, "column": 3, "character": "ہ" },
+    { "row": 2, "column": 4, "character": "ے" },
+    { "row": 3, "column": 0, "character": "ڠ" },
+    { "row": 3, "column": 1, "character": "ڽ" },
+    { "row": 3, "column": 2, "character": "ڤ" },
+    { "row": 3, "column": 3, "character": "ݢ" },
+    { "row": 3, "column": 4, "character": "ۏ" },
+    { "row": 4, "column": 0, "character": "ڢ" },
+    { "row": 4, "column": 1, "character": "ڧ" }
+  ]
+}

@@ -1,0 +1,59 @@
+site_name: Benchmark for Arabic-script Handwritten Text Recognition
+site_description: Experimental transcription guidelines for Arabic-script ATR training data
+site_url: https://bashtr.github.io/bashtr-guidelines/
+
+theme:
+  name: material
+  favicon: assets/favicon.svg
+  logo: assets/bashtrlogo.svg
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/circle-outline
+        name: Reading terminal
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/circle-slice-8
+        name: Parchment
+  font: false
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+extra_css:
+  - stylesheets/site.css
+
+extra_javascript:
+  - javascripts/image-viewer.js
+  - javascripts/header-actions.js
+  - javascripts/external-links.js
+
+markdown_extensions:
+  - md_in_html
+  - tables
+  - toc:
+      permalink: false
+      toc_depth: 2
+
+nav:
+  - Overview: index.md
+  - Transcription standard:
+      - General Principles: principles.md
+      - Character Inventory: characters.md
+      - Transcription Rules: transcription.md
+      - Layout & Segmentation: layout.md
+      - Examples: examples.md
+  - Resources:
+      - Database: database.md
+      - Virtual Keyboard: keyboard.md
+      - Open Questions: community.md
+      - Citation & References: about.md
